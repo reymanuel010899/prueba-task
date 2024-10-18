@@ -13,3 +13,6 @@ de sazon y en una app mstrarle un poquito de mis habilidades como desarrollador 
 2-   en una terminar correr                'python manage.py runserver'
 3-   en otra terminar correr                'nm run dev'
 
+
+
+rey manuel ferreras adames
