@@ -15,4 +15,4 @@ de sazon y en una app mstrarle un poquito de mis habilidades como desarrollador 
 
 
 
-rey manuel ferreras
+rey manuel ferreras adames
